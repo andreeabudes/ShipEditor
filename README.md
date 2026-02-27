@@ -1,5 +1,8 @@
 **ShipEditor** este un editor de nave bazat pe un grid, dezvoltat în C++ folosind framework-ul OpenGL. Acesta permite utilizatorilor să proiecteze nave complexe prin **Drag & Drop** de elemente auxiliare, respectând în același timp un set riguros de constrângeri structurale și logice.
 
+<img width="626" height="355" alt="image" src="https://github.com/user-attachments/assets/a13347e1-1c73-4423-8b7d-884c31b51df7" />
+
+
 ## Caracteristici Principale
 
 ### 1. Editor Vizual cu Drag & Drop
