@@ -25,3 +25,6 @@ Pentru a porni jocul, nava trebuie să fie validă. Butonul de **START** (stegul
 3.  **Integritate Tun:** Nu se pot plasa blocuri deasupra tunului (linia de tragere liberă).
 4.  **Siguranță Bumper:** Distanță minimă față de tunuri și interzicerea plasării blocurilor deasupra zonei de impact a bumperului.
 5.  **Limită de Masă:** Maxim 10 blocuri per navă.
+
+![joc1](https://github.com/user-attachments/assets/0f36a52b-832d-47e9-a9ec-7a68fb688815)
+
